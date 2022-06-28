@@ -1,7 +1,7 @@
 # StellScreen : Firmware Arduino (ESP32) pour Stellarium
 Ce projet est un firmware codé en Arduino utilisant une carte ESP32 + un écran TFT 2" ST7789 permettant de communiquer avec le logiciel Stellarium : obtenir des données, envoyer des commandes.
 
-https://github.com/AstrAuDobson/StellScreen-Firmware-Arduino-ESP32-pour-Stellarium/blob/main/ecran_principal.jpg
+![](https://github.com/AstrAuDobson/StellScreen-Firmware-Arduino-ESP32-pour-Stellarium/blob/main/ecran_principal.jpg)
 
 Actuellement, il vous sera possible de : <br>
 -Obtenir des données comme le site d'observation (nom, longitude, latitude), la date, l'heure, la time zone, l'objet céleste sélectionné et diverses caractéristiques (magnitude, type, position AltAz).
